@@ -17,7 +17,7 @@ El Sol uses the these Liberarys:
 - Tensorflow
 - Keras from Tensorflow
 - Numpy
-- OS
+- cv2
 - Matplot
 - PyGame (I will have to see later.)
 
