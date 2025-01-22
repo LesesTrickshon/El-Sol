@@ -4,7 +4,7 @@
 
 ---
 ## Inhaltsverzeichnis
-- [Information](#Information)
+- [Information](#Informationen)
 - [Installation](#Installation)
 - [Nutzung](#Nutzung)
 - [Beitragen](#Beitragen)
