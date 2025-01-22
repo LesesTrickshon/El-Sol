@@ -20,3 +20,6 @@ El Sol nutz diese Bibilotheken:
 - OS
 - Matplot
 - PyGame (I will have to see later.)
+
+#### *Wie findet das Programm heraus, welche Pannles kaputt sind?*
+Die KI ist eine abgeänderte Version einer MNIST-KI, welche herausfinden kann welche Zahl der User gezeichnet hat. Diese KI arbeitet mit einer viel **höheren** Bilderqualität und drei Color-Channels als die MNIST-KI welche 28x28 Schwarz-Weiß-Bilder nutzt.
