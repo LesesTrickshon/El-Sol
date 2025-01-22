@@ -1,5 +1,5 @@
 # EL SOL
-## AI-driven Solar-Pannle health detector
+## KI-basierender Solarpannle Schadendetector
 [Version in English 🇮🇳](README.md)
 
 ---
