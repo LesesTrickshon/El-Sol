@@ -1,6 +1,6 @@
 # EL SOL
 ## KI-basierender Solarpannle Schadendetector
-[Version in English 🇮🇳🇳🇿](README.md)
+[Version in English 🇮🇳 🇳🇿](README.md)
 
 ---
 ## Inhaltsverzeichnis
