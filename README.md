@@ -22,4 +22,4 @@ El Sol uses the these Liberarys:
 - PyGame (I will have to see later.)
 
 #### *How does it find out which pannle is broken which one isn't?*
-The AI is a forked version of an MNIST-AI which is a AI that can determine which number the user drew. This AI is using a way **higher** resolution for the images as the 28x28 and 3 color channles for RGB insted of the singular black and white channle used for MNIST 
+The AI is a forked version of an MNIST-AI which is a AI that can determine which number the user drew. This AI is using a way **higher** resolution for the images and 3 color channles instead of the 28x28 and the singular black and white channle used by MNIST.
