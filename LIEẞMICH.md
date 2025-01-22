@@ -1,2 +1,5 @@
 # EL SOL
-### Auf Deutsch 🇩🇪
+## AI-driven Solar-Pannle health detector
+[Version in English 🇮🇳](README.md)
+
+---
