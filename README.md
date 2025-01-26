@@ -1,6 +1,9 @@
 # EL SOL
 ### AI-driven Solar-Pannle health detector
 [Version auf Deustch 🇩🇪 🇦🇹](LIESSMICH.md)
+<div align="center">
+  <img src="https://github.com/LesesTrickshon/El-Sol/blob/main/Logos/logo.jpeg?raw=true" width="60%" alt="El Sol logo" />
+</div>
 
 ---
 ## Table of Contents
