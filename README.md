@@ -11,7 +11,7 @@
 - [License](#License)
 ---
 ## Information
-El Sol is a Python 3.10 script made to detect if a Solar Pannle is broken just by using thermal image data. The Project is by [LT](https://github.com/LesesTrickshon) and [Lennard6](https://github.com/lennard6).
+El Sol is a Python 3.10 script made to detect if a Solar Pannle is broken just by using thermal image data. The Project is by [Leaf Tide🍃](https://github.com/LesesTrickshon) and [Lennard6](https://github.com/lennard6).
 ### How it works
 El Sol uses the these Liberarys:
 - Tensorflow
