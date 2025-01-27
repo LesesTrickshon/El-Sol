@@ -1,6 +1,13 @@
-# EL SOL
-## KI-basierender Solarpannle Schadendetector
-[Version in English 🇮🇳 🇳🇿](README.md)
+<div align="center">
+  <h1>El Sol</h1>
+  <h3>KI-basierender Solarpannle Schadendetector</h3>
+</div>
+
+- [Version in English 🇮🇳 🇳🇿](README.md)
+- Version op de goede oude leuke Nederlandse taal (Heb ik nog niet geschrijft)
+<div align="center">
+  <img src="https://github.com/LesesTrickshon/El-Sol/blob/main/Logos/logo-nobg.png?raw=true" width="40%" alt="El Sol logo" />
+</div>
 
 ---
 ## Inhaltsverzeichnis
