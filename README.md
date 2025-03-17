@@ -5,7 +5,7 @@
 
 - [Version auf Deustch 🇩🇪 🇦🇹](LIESSMICH.md)
 <div align="center">
-  <img src="https://github.com/LesesTrickshon/El-Sol/blob/main/Logos/logo-nobg.png?raw=true" width="40%" alt="El Sol logo" />
+  <img src="https://github.com/LesesTrickshon/El-Sol/blob/main/Data/Image/logo-nobg.png?raw=true" width="40%" alt="El Sol logo" />
 </div>
 
 ---
